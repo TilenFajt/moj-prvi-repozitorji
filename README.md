@@ -8,4 +8,6 @@ To je moj prvi GitHub repozitorij. Namenjen je učenju uporabe 2D tabel v javi.
 
 -kako napolniti tabelo,
 
--kako izpisati tabelo
+-kako izpisati tabelo,
+
+-kako dobiti sode in lihe elemente v tabeli,
