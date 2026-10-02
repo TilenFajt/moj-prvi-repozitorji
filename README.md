@@ -1,1 +1,2 @@
-# moj-prvi-repozitorji
+# moj-prvi-repozitorij
+## O projektu
