@@ -8,4 +8,4 @@ Ta projekt je moja prva predstavitev odprtokodnega spletnega brskalnika Mozilla 
 - Velik poudarek daje na zasebnost uporabnikov.
 - Je odprtokoden.
 
-# Zanimiva stvar o meni=> Znam igrati električno kitaro in igram v bandu.
+## Zanimiva stvar o meni=> Znam igrati električno kitaro in igram v bandu.
