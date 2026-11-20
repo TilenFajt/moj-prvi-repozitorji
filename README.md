@@ -1,6 +1,6 @@
 # moj-prvi-repozitorij
 ## O projektu
-To je moj prvi GitHub repozitorij. Namenjen je učenju uporabe 2D tabel v javi.
+Ta projekt je moja prva predstavitev odprtokodnega spletnega brskalnika Mozilla Firefox na GitHubu.
 
 ## Kaj sem se naučil
 
