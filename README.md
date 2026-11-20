@@ -4,10 +4,8 @@ Ta projekt je moja prva predstavitev odprtokodnega spletnega brskalnika Mozilla 
 
 ## Kaj sem se naučil
 
--kako narediti zanko v zanki,
+- Je hiter in zanesljiv.
+- Velik poudarek daje na zasebnost uporabnikov.
+- Je odprtokoden.
 
--kako napolniti tabelo,
-
--kako izpisati tabelo,
-
--kako dobiti sode in lihe elemente v tabeli,
+# Zanimiva stvar o meni=> Znam igrati električno kitaro in igram v bandu.
